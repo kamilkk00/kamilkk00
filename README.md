@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/1bc7dfd9-ece7-45ab-b029-b94cb29f3c65)<h1 align="center">Hi there 👋, I'm Kamil</h1>
+
+<h1 align="center">Hi there 👋, I'm Kamil</h1>
 
 ### 👨‍💻 Currently Learning and Exploring
 I'm currently diving into algorithms and web development.  
@@ -19,11 +20,23 @@ Here are some of my key projects that I am proud of:
 🌍 My biggest passion is **international capital markets** 📊, with a focus on **macroeconomics** 💹.
 
 ### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/kamil-k%C4%99pka-885916199/)
+<a href="https://www.linkedin.com/in/kamil-k%C4%99pka-885916199/" target="_blank" style="margin-left: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
+</a>
 
 ### 🛠️ Languages and Tools
-![image](https://github.com/user-attachments/assets/8a0277af-cc04-4314-b737-2ad9e78bfd22)
-Python, Django, SQL, JavaScript, HTML, CSS, Bootstrap, API, Unit Tests, Git, GitHub, Heroku, C, Flask, React
+<a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="60" height="60"/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60" height="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="60" height="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="60" height="60"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="60" height="60"/></a>
+<a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="60" height="60"/></a>
+<a href="https://www.w3schools.com/c/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="60" height="60"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60"/></a>
 
 ### 📁 Projects
 Check out my repositories and live projects:
