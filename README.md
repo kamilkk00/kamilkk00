@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kamil</h1>
+![image](https://github.com/user-attachments/assets/1bc7dfd9-ece7-45ab-b029-b94cb29f3c65)<h1 align="center">Hi there 👋, I'm Kamil</h1>
 
 ### 👨‍💻 Currently Learning and Exploring
 I'm currently diving into algorithms and web development.  
@@ -22,6 +22,7 @@ Here are some of my key projects that I am proud of:
 [LinkedIn](https://www.linkedin.com/in/kamil-k%C4%99pka-885916199/)
 
 ### 🛠️ Languages and Tools
+![image](https://github.com/user-attachments/assets/8a0277af-cc04-4314-b737-2ad9e78bfd22)
 Python, Django, SQL, JavaScript, HTML, CSS, Bootstrap, API, Unit Tests, Git, GitHub, Heroku, C, Flask, React
 
 ### 📁 Projects
