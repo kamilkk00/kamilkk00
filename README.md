@@ -7,7 +7,7 @@ In my "waiting room" are exciting topics like Artificial Intelligence and blockc
 ### 💼 Featured Projects
 Here are some of my key projects that I am proud of:
 - **[BookIT](https://www.easybookitonline.com/)** – A dynamic service booking platform connecting service providers with customers.
-- **[Finance Forum](https://www.expertbizforum.com/)** – An online platform for knowledge sharing between business professionals and users.
+- **[Finance Forum](https://www.expertbizforum.com/)** – An online platform for knowledge sharing between business consultants and users.
 
 ### 🎓 Courses Completed
 - **[Algorithm Specialization](https://github.com/kamilkk00/Stanford_Algorithms)** – Focused on algorithm design.
