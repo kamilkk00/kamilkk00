@@ -11,10 +11,10 @@ Here are some of my key projects that I am proud of:
 - **[Finance Forum](https://www.expertbizforum.com/)** – An online platform for knowledge sharing between business consultants and users.
 
 ### 🎓 Courses Completed
-- **[Algorithm Specialization](https://github.com/kamilkk00/Stanford_Algorithms)** – Focused on algorithm design.
+- **[Algorithm Specialization](https://github.com/kamilkk00/Stanford_Algorithms)** – Comprehensive study focused on algorithm design, implementation, and optimization techniques.
 - **[CS50 Web](https://github.com/kamilkk00/CS50/tree/main/CS50_Web)** – Web development with Python, JavaScript, and SQL.
 - **[CS50x](https://github.com/kamilkk00/CS50/tree/main/CS50x)** – Introduction to Computer Science.
-- **[CS50P](https://github.com/kamilkk00/CS50/tree/main/CS50_Python)** – Programming with Python.
+- **[CS50P](https://github.com/kamilkk00/CS50/tree/main/CS50_Python)** – Introduction to Programming with Python.
 
 ### 🚀 My Passion
 🌍 My biggest passion is **international capital markets** 📊, with a focus on **macroeconomics** 💹.
