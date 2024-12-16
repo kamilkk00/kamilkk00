@@ -11,6 +11,7 @@ Here are some of my key projects that I am proud of:
 - **[Finance Forum](https://www.expertbizforum.com/)** – An online platform for knowledge sharing between business consultants and users.
 
 ### 🎓 Courses Completed
+- **[CS50AI]()** – Introduction to Artificial Intelligence with Python.
 - **[Algorithm Specialization](https://github.com/kamilkk00/Stanford_Algorithms)** – Comprehensive study focused on algorithm design, implementation, and optimization techniques.
 - **[CS50 Web](https://github.com/kamilkk00/CS50/tree/main/CS50_Web)** – Web development with Python, JavaScript, and SQL.
 - **[CS50x](https://github.com/kamilkk00/CS50/tree/main/CS50x)** – Introduction to Computer Science.
