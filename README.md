@@ -44,7 +44,7 @@ Check out my repositories and live projects:
 - [BookIT GitHub Repo](https://github.com/kamilkk00/BookIT)
 - [Finance Forum GitHub Repo](https://github.com/kamilkk00/Financial_Forum)
 - [Forum Finansowe GitHub Repo](https://github.com/kamilkk00/Forum_Finansowe)
-- [CS50 AI GitHub Repo] (https://github.com/kamilkk00/CS50/tree/main/CS50_AI)
+- [CS50 AI GitHub Repo](https://github.com/kamilkk00/CS50/tree/main/CS50_AI)
 - [Algorithm Specialization GitHub Repo](https://github.com/kamilkk00/Stanford_Algorithms)
 - [CS50 Web GitHub Repo](https://github.com/kamilkk00/CS50/tree/main/CS50_Web)
 - [CS50x GitHub Repo](https://github.com/kamilkk00/CS50/tree/main/CS50x)
