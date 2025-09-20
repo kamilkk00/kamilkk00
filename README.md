@@ -2,8 +2,8 @@
 <h1 align="center">Hi there 👋, I'm Kamil</h1>
 
 ### 👨‍💻 Currently Learning and Exploring
-I'm currently diving into algorithms and web development.  
-In my "waiting room" are exciting topics like Artificial Intelligence and blockchains.
+I'm currently diving into Artificial Intelligence  
+In my "waiting room" are exciting topics like blockchains.
 
 ### 💼 Featured Projects
 Here are some of my key projects that I am proud of:
